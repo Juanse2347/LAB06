@@ -155,3 +155,7 @@ Configuración necesaria para acceder a FTP:
 
 ## Entrega
 - El enlace de la aplicación React y Spring MVC desplegada en Azure
+
+https://salmon-beach-0ca0de910.5.azurestaticapps.net/
+
+https://appcvds2.azurewebsites.net/
